@@ -5,7 +5,6 @@
 I’m an 18-year-old student passionate about creating modern, secure websites and software.  
 I mainly focus on building fast, clean UI with professional-level website design and development.
 
----
 
 ## 💼 Work Experience
 
@@ -18,7 +17,6 @@ I mainly focus on building fast, clean UI with professional-level website design
 - Working collaboratively within a professional technical environment
 - Remaking old websites, and making them new & modernised
 
----
 
 ### Double Eleven  
 **29 July – 2 August 2024**
@@ -27,7 +25,6 @@ I mainly focus on building fast, clean UI with professional-level website design
 - Covered project management, coding, testing, and production  
 - Developed teamwork, communication, and structured working practices  
 
----
 
 ### Startup Sherpas  
 **May 2023 – May 2024**
@@ -37,7 +34,6 @@ I mainly focus on building fast, clean UI with professional-level website design
 - Provided support and guidance to group members when required  
 - Developed responsibility, communication, and multitasking skills  
 
----
 
 ## 🎓 Education
 
