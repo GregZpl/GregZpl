@@ -15,7 +15,7 @@ I mainly focus on building fast, clean UI with professional-level website design
 - Building and testing simple software components to improve team efficiency  
 - Following instructions, meeting deadlines, and updating digital project records  
 - Working collaboratively within a professional technical environment
-- Remaking old websites, and making them new & modernised
+- Remaking old websites, making them new & modernised
 
 
 ### Double Eleven  
