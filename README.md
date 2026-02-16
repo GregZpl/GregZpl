@@ -1,6 +1,6 @@
 # Hello, My Name Is Greg 👋
 
-### T-Level College Student — Digital Production, Design & Development
+### T-Level College Student - Digital Production, Design & Development
 
 I’m an 18-year-old student passionate about creating modern, secure websites and software.  
 I mainly focus on building fast, clean UI with professional-level website design and development.
@@ -8,7 +8,7 @@ I mainly focus on building fast, clean UI with professional-level website design
 
 ## 💼 Work Experience
 
-### Ghost Innovations Ltd — Junior Software Assistant  
+### Ghost Innovations Ltd - Junior Software Assistant  
 **29 January 2025 – Present (Industry Placement)**
 
 - Supporting a software development team in delivering digital solutions  
@@ -39,13 +39,13 @@ I mainly focus on building fast, clean UI with professional-level website design
 
 ### GCSE Results
 
-- Maths — 5  
-- English Language — 7  
-- English Literature — 6  
-- Science — 6/5  
-- History — 7  
-- Computer Science — 4  
-- BTEC Sport — Level 2 Distinction  
+- Maths - 5  
+- English Language - 7  
+- English Literature - 6  
+- Science - 6/5  
+- History - 7  
+- Computer Science - 4  
+- BTEC Sport - Level 2 Distinction  
 
 
 ### T-Level (Level 3)
