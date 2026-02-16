@@ -47,11 +47,8 @@ I mainly focus on building fast, clean UI with professional-level website design
 - Computer Science — 4  
 - BTEC Sport — Level 2 Distinction  
 
----
 
 ### T-Level (Level 3)
 
 **Digital Production, Design & Development**  
 Middlesbrough College
-
----
