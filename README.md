@@ -13,7 +13,9 @@ I mainly focus on building fast, clean UI with professional-level website design
 
 - Supporting a software development team in delivering digital solutions  
 - Building and testing simple software components to improve team efficiency  
-- Following instructions, meeting deadlines, and updating digital project records  
+- Following instructions, meeting deadlines, and updating digital project records
+- Producing quality websites and software, redesign + full remakes
+- Setting up & deploying a fully functional Linux server - file sharing + hosting
 - Working collaboratively within a professional technical environment
 - Remaking old websites, making them new & modernised
 
